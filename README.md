@@ -10,3 +10,10 @@
 * Estimacion de tiempo de calculo
 * Piecewise hashing
 * Modo de tipos de archivos
+
+
+## Ejemplos
+
+### Generacion de hash de un solo fichero
+
+![Ejemplo1](./assets/uno.png "Title")
