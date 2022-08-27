@@ -17,3 +17,7 @@
 ### Generacion de hash de un solo fichero
 
 ![Ejemplo1](./assets/uno.png "Title")
+
+### Generacion de hash de todos los ficheros en un directorio
+
+![Ejemplo2](./assets/dos.png "Title")
