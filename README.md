@@ -21,3 +21,7 @@
 ### Generacion de hash de todos los ficheros en un directorio
 
 ![Ejemplo2](./assets/dos.png "Title")
+
+### Generacion de hash de todos los ficheros en un directorio con tamaño del archivos
+
+![Ejemplo2](./assets/tres.png "Title")
