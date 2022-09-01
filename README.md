@@ -24,3 +24,7 @@
 ### Generación de hash de todos los ficheros en un directorio con tamaño del archivos
 
 ![Ejemplo2](./assets/tres.png "Title")
+
+
+* Carlos Andres Escobar
+* Michael Hamir Arias
